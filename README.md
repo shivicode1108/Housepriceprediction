@@ -1,2 +1,3 @@
 # Housepriceprediction
-House Price Prediction using Tensorflow,Keras ,Vue.js and javascript
+House Price Prediction using Tensorflow and Keras
+
